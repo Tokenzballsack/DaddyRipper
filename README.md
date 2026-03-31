@@ -1,5 +1,6 @@
-# AssetRipper
+# DaddyRipper. A fork of assripper
 
+Original Links:
 [![](https://img.shields.io/github/downloads/AssetRipper/AssetRipper/total.svg)](https://github.com/AssetRipper/AssetRipper/releases)
 [![](https://img.shields.io/github/downloads/AssetRipper/AssetRipper/latest/total.svg)](https://github.com/AssetRipper/AssetRipper/releases/latest)
 [![](https://img.shields.io/github/v/release/AssetRipper/AssetRipper)](https://github.com/AssetRipper/AssetRipper/releases/latest)
@@ -11,31 +12,7 @@ AssetRipper supports Unity versions from `3.5.0` to `6000.5.X`. However, support
 
 # Premium Edition
 
-[Patreon](https://www.patreon.com/ds5678) supporters at the `Premium` tier or higher receive access to the premium edition of AssetRipper. This edition includes additional [features and improvements](https://assetripper.github.io/AssetRipper/articles/PremiumFeatures.html).
-
-# Donations
-
-Your support helps maintain and improve AssetRipper. If you find this tool useful, please consider donating:
-
-- [GitHub Sponsors](https://github.com/sponsors/ds5678)
-- [Patreon](https://www.patreon.com/ds5678)
-- [PayPal](https://paypal.me/ds5678)
-
 Patreon donors receive special roles on our [Discord server](https://discord.gg/XqXa53W2Yh).
-
-# Links
-
-[Website](https://assetripper.github.io/AssetRipper/)
-
-[Downloads](https://assetripper.github.io/AssetRipper/articles/Downloads.html)
-
-[Road Map](https://assetripper.github.io/AssetRipper/articles/RoadMap.html)
-
-[Credits](https://assetripper.github.io/AssetRipper/articles/Credits.html)
-
-# Discord [![](https://img.shields.io/discord/867514400701153281?color=blue&label=AssetRipper)](https://discord.gg/XqXa53W2Yh)
-
-The development of this project has a dedicated [Discord server](https://discord.gg/XqXa53W2Yh).
 
 # Legal Disclaimers
 
