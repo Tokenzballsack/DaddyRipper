@@ -10,10 +10,6 @@ AssetRipper is a tool for extracting assets from Unity serialized files (*CAB-*\
 
 AssetRipper supports Unity versions from `3.5.0` to `6000.5.X`. However, support quality may vary slightly for different Unity versions.
 
-# Premium Edition
-
-Patreon donors receive special roles on our [Discord server](https://discord.gg/XqXa53W2Yh).
-
 # Legal Disclaimers
 
 AssetRipper is licensed under the [GNU General Public License v3.0](LICENSE.md).
